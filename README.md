@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**archanagit1990/archanagit1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get# 💫 About Me:
+# 💫 About Me:
 ## 👋 About Me<br><br>🔭 I’m currently working on<br>Building practical **ETL/Data Engineering & Data Quality projects** using Python, SQL, PostgreSQL, and Power BI, along with Playwright-based test automation.<br><br>🤝 I’m looking to collaborate on<br>**QA Automation, ETL/Data Quality, DevOps, Data Engineering, and AI-driven Testing** projects.<br><br>🧩 I’m looking for help with<br>Exploring **Agentic AI, LLM-based testing, intelligent test automation, and scalable data validation frameworks**.<br><br>🌱 I’m currently learning<br>**Playwright | JavaScript/TypeScript | Python | ETL Automation | Data Engineering | AI/LLM Testing | AWS**<br><br>💬 Ask me about<br>**QA Strategy | ETL & Data Warehouse Testing | Data Quality | SQL | API Testing | CI/CD | DevOps | OpenShift | Test Automation**<br><br>⚡ Fun fact<br>I enjoy turning real-world testing challenges into **automation frameworks and hands-on GitHub projects**.
 
 
@@ -20,14 +15,4 @@ Here are some ideas to get# 💫 About Me:
 ---
 [![](https://komarev.com/ghpvc/?username=archanagit1990&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->****
